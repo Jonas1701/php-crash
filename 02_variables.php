@@ -36,7 +36,7 @@ var_dump($cashOnHand);
 echo "$name is $age years old";
 
 // Better to do this
-echo "${name} is ${age} years old";
+echo "{$name} is {$age} years old";
 
 // Concatenate Strings
 
